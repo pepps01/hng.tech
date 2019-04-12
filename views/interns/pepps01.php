@@ -29,7 +29,7 @@
                         <br />
                         <h6>Skills</h6>
                         <p>JavaScript | PHP | Python</p>
-                     </div>
+                         </div>
                   </div>
                </div>
             </div>
