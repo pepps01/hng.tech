@@ -11,8 +11,8 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                       https://res.cloudinary.com/pepps01/image/upload/v1554367998/Sunny/sunny.jpg
-                        <img src="https://res.cloudinary.com/iambeejayayo/image/upload/v1547954566/fav-500.png" alt="Mark Essien">
+
+                        <img src=" https://res.cloudinary.com/pepps01/image/upload/v1554367998/Sunny/sunny.jpg" alt="Mark Essien">
                         <h6>Sunny Pepple  </h6>
                         <p>Full Stack Engineer</p>
                         <ul class="list">
